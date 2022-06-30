@@ -1,7 +1,8 @@
 # OCR---Naive-Bayes & Perceptron
 #### This is an implementation of Optical Character Recognition (OCR) using Naive Bayes & Perceptron algorithms.
 
-
+### INFO about dataset (training , validation , test)
+The dataset consist of set of images and labels for each image.
 Images are 28 x 28 array, which every cell (pixel) could be 0 (White pixel) or 1 (Black pixel).
 0 is presented as ' ' (space) and 1 is presented as '#' or '+'
 For example:
